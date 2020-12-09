@@ -1,0 +1,16 @@
+@media (min-width: 992px){
+.col-md-b100 {
+    margin-bottom: 30px;
+    }
+}
+
+
+.header-bottom {
+
+    background: #05465A;
+
+}
+
+.fa-search{
+ color: white;
+}
